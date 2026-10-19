@@ -1,27 +1,36 @@
-# extiverse/bazaar (Archive)
+# extiverse-bazaar (Archive)
 
-> **Read-only archive of released versions of extiverse/bazaar.** Not for installation: use [Packagist](https://packagist.org/packages/extiverse/bazaar) or the [upstream repository](https://github.com/extiverse/bazaar).
+> **Read-only archive of released versions for extiverse/bazaar, flagrow/bazaar.** Not for installation: use Packagist or the [upstream repository](https://github.com/extiverse/bazaar).
 
-**14** versions archived · Latest: [`0.4.1`](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.4.1) · License: `MIT` · Flarum: `^0.1.0-beta.9`
+**27** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.0) · License: `cc-by-nc-nd` · Flarum: `^0.1.0-beta.6`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`extiverse/bazaar`](https://packagist.org/packages/extiverse/bazaar)
+- [`flagrow/bazaar`](https://packagist.org/packages/flagrow/bazaar)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `0.3.0` | 2018-11-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.0) |
-| `0.3.0-beta` | 2018-11-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.0-beta) |
-| `0.3.1` | 2018-11-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.1) |
-| `0.3.10` | 2019-04-25 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.10) |
-| `0.3.2` | 2018-11-19 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.2) |
-| `0.3.3` | 2018-11-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.3) |
-| `0.3.4` | 2018-11-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.4) |
-| `0.3.5` | 2018-11-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.5) |
-| `0.3.6` | 2018-11-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.6) |
-| `0.3.7` | 2018-11-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.3.7) |
+| `0.1.0` | 2017-04-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.0) |
+| `0.1.0-beta.1` | 2017-03-11 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.2` | 2017-03-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.0-beta.2) |
+| `0.1.0-beta.3` | 2017-03-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.0-beta.3) |
+| `0.1.0-beta.4` | 2017-04-03 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.0-beta.4) |
+| `0.1.0-beta.5` | 2017-04-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.0-beta.5) |
+| `0.1.1` | 2017-04-27 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-05-22 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.1.2) |
+| `0.2.0` | 2017-05-30 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.2.0) |
+| `0.2.1` | 2017-05-30 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/extiverse-bazaar/tree/archive/v0.2.1) |
 
-[View all 14 versions](https://github.com/flarchive/extiverse-bazaar/tags)
+[View all 27 versions](https://github.com/flarchive/extiverse-bazaar/tags)
 
-Catalog entry: [packages/extiverse-bazaar.json](https://github.com/flarchive/archive-index/blob/main/packages/extiverse-bazaar.json)
+## Catalog entries
+
+- [`extiverse/bazaar`](https://github.com/flarchive/archive-index/blob/main/packages/extiverse-bazaar.json)
+- [`flagrow/bazaar`](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-bazaar.json)
 
 ## About this archive
 
